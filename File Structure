@@ -1,0 +1,18 @@
+winning-picks-network/
+│
+├── assets/                   # CSS, JS, images
+│   ├── css/
+│   ├── js/
+│   └── images/
+│
+├── includes/                 # PHP includes (database, navbar, footer)
+│   ├── config.php
+│   ├── navbar.php
+│   └── footer.php
+│
+├── index.php                 # Homepage
+├── register.php              # User registration
+├── login.php                 # User login
+├── predictions.php           # Display predictions
+├── blog.php                  # Blog section
+└── payment.php               # Payment integration
